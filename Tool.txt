@@ -1,0 +1,17 @@
+AWS IP Grabber From ASN
+This tool will grab aws ips from ASN.
+we need ASN ( Autonomous system Number )
+its a number represents every ISP , Company on internet
+ISP = Internet service providor
+as Example OVH , AWS dont use ISP they have their own internet 
+they dont buy from internet service providor like you 
+
+so they have Their OWN ASN Number
+But you your ip have your ISP ASN Number
+so the point is Every network provide internet ( Company / ISP ) Have ASN
+
+lets start with AWS:
+simply go to ipapi.co paste your aws ip and you will see the ASN
+
+if you wanna buy this tool contact me via Facebook or Telegram . 
+Telegram : @alexrony21
